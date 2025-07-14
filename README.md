@@ -15,12 +15,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/puneet-kumar-a4534294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in front-end, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Passionate App developer, creating robust and scalable  applications. Skilled in front-end, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 JavaScript, React, Android and Ios, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
@@ -35,6 +34,3 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=punitgrover&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
 
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
